@@ -1,4 +1,4 @@
 protobuf_ptree_parser
 =====================
 
-a tool to parse protobuf into ptree(boost), and parse ptree into protobuf
+a tool for parsing protobuf between ptree(boost)
